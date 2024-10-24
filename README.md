@@ -99,9 +99,9 @@ This project demonstrates the potential of using EDA to uncover meaningful patte
 Clone the repository:
 git clone (https://github.com/Iqubal121/play_store_EDA/blob/dddcf0ce8566c2fa9054933f2d78e643101a65fc/PlayStore_App_Review_Analysis_EDA_Projects.ipynb)
 
-###Install the required Python libraries:
+### Install the required Python libraries:
 
-pip install -r requirements.txt
+pip install -r [requirements.txt](https://github.com/Iqubal121/play_store_EDA/blob/a2ab57af40038d688fb872debcb0a62b77671ca8/requirement.txt)
 
 ### Run the Jupyter notebook:
 jupyter notebook Play_Store_EDA.ipynb
