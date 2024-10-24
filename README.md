@@ -111,7 +111,7 @@ Explore the notebook to view the analysis and visualizations.
 Feel free to contribute to this project by submitting a pull request. You can also open an issue for bug reports or feature requests.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Iqubal121/Data-Science-Tutorials/blob/e5884fce7cf0cd096214c4d47ceb34c8a7b6ea16/LICIENCE) file for details.
 
 
 
