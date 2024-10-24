@@ -59,26 +59,37 @@ To derive insights that can help app developers make data-driven decisions.
 The following Python libraries were used to perform the analysis:
 
 **Pandas:** For data manipulation and cleaning.
+
 **NumPy:** For numerical operations.
+
 **Matplotlib:** For basic plotting and visualizations.
+
 **Seaborn:** For advanced data visualization.
+
 **Scikit-learn:** For handling missing data and scaling.
 
 ### Exploratory Data Analysis
 The EDA process consists of the following steps:
 
 **Data Cleaning:** Handling missing values, converting data types, and correcting anomalies (like incorrect pricing and installation numbers).
+
 **Univariate Analysis:** Understanding the distribution of individual features like ratings, price, and size.
+
 **Bivariate and Multivariate Analysis:** Exploring relationships between multiple features such as ratings vs. installs or price vs. app size.
+
 **Visualization:** Creating bar plots, histograms, scatter plots, and box plots to visualize key relationships and trends.
+
 **Insights Generation:** Summarizing key findings from the analysis.
 
 ### Key Insights
 Some of the key insights discovered through this analysis include:
 
 **Most Popular Categories:** Games and Family are the most popular categories by number of apps.
+
 **Free vs Paid Apps:** Free apps generally have more installs compared to paid apps, but paid apps often have higher average ratings.
+
 **Impact of Reviews on Ratings:** A pps with a higher number of reviews tend to have higher ratings.
+
 **Pricing Strategy:** The majority of apps are free, and paid apps tend to cluster around lower price points.
 
 ### Conclusion
