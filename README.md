@@ -82,11 +82,11 @@ Some of the key insights discovered through this analysis include:
 **Pricing Strategy:** The majority of apps are free, and paid apps tend to cluster around lower price points.
 
 ### Conclusion
-This project demonstrates the potential of using EDA to uncover meaningful patterns in-app data. The insights gathered can be useful for developers, marketers, and business strategists to enhance app visibility and user engagement on the Google Play Store.
+This project demonstrates the potential of using EDA to uncover meaningful patterns in in-app data. The insights gathered can be useful for developers, marketers, and business strategists to enhance app visibility and user engagement on the Google Play Store.
 
 ### How to Run
 Clone the repository:
-git clone https://github.com/your-username/play-store-eda.git
+git clone (https://github.com/Iqubal121/play_store_EDA/blob/dddcf0ce8566c2fa9054933f2d78e643101a65fc/PlayStore_App_Review_Analysis_EDA_Projects.ipynb)
 
 ###Install the required Python libraries:
 
