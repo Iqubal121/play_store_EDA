@@ -97,7 +97,7 @@ This project demonstrates the potential of using EDA to uncover meaningful patte
 
 ### How to Run
 Clone the repository:
-git clone (https://github.com/Iqubal121/play_store_EDA/blob/dddcf0ce8566c2fa9054933f2d78e643101a65fc/PlayStore_App_Review_Analysis_EDA_Projects.ipynb)
+git clone https://github.com/Iqubal121/play_store_EDA.git
 
 ### Install the required Python libraries:
 
